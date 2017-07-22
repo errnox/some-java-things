@@ -1,0 +1,21 @@
+Hello {
+-> What is your name?
+-> Quit?
+}
+
+What is your name? {
+-> Is this your first name?
+-> Is this your last name?
+}
+
+Is this your first name? {
+-> What is your last name?
+-> What is your first name?
+-> Quit?
+}
+
+Is this your last name? {
+-> What is your first name?
+-> What is your last name?
+-> Quit?
+}
